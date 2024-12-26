@@ -21,5 +21,5 @@ g++ -o main.exe main.cc grid.cc cell.cc
 ## Execution
 Run the program using:
 ```bash
-Start-Process -FilePath ".\main.exe"
+.\main.exe
 ```
